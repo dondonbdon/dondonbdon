@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dondonbdon
-- 👀 I’m interested in Android App Development and Backend Web Development
+- 👀 I’m interested in Android App Development and Backend Development
 - 🌱 I’m currently learning Java, Python, Javascript/Typscript, C and C++
 
 <!---
